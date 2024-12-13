@@ -18,7 +18,10 @@ const spaceGrotesk = localFont({
 
 export const metadata: Metadata = {
   title: "DOF",
-  description: "DevOverFlow via Ultimate Next.js course",
+  description: "DevOverFlow via Ultimate Next.js course and JSMastery",
+  icons: {
+    icon: "/images/site-logo.svg",
+  },
 };
 
 export default function RootLayout({
