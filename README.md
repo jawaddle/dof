@@ -1,3 +1,11 @@
+# DOF ReadMe
+
+## Changes from course
+
+- use pnpm as default package manager
+- Name program DevOverFlow
+-
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
