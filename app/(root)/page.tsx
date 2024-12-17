@@ -4,7 +4,7 @@ import ROUTES from "@/constants/routes";
 
 const Home = async () => {
   const session = await auth();
-  console.log(session);
+  // console.log(session);
   return (
     <>
       <h1 className="h1-bold font-inter">Welcome to DevOverFlow via Next.js</h1>
